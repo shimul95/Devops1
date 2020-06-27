@@ -1,3 +1,6 @@
+
+-//test program
+
 minimum=input("do you have minimum balance")
 
 if minimum=="yes";
@@ -7,6 +10,7 @@ if minimum=="yes";
 
 else:
 
+//test program
       cash=input("do you have cash")
       if cash=="yes";
       print("cash payment")
